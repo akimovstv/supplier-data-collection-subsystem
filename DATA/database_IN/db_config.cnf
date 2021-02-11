@@ -1,0 +1,5 @@
+[connector_python]
+user = *******
+database = suppliers
+host = *******
+port = *******
