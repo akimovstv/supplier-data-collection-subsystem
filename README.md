@@ -1,7 +1,7 @@
 # Example project _supplier-data-collection-subsystem_
 
 _**EXCLUSIVE COPYRIGHT IS OWNED BY STANISLAV AKIMOV.  
-NO LICENCE IS OFFERING.**_
+NO LICENSE IS OFFERING.**_
 
 ## The purpose of posting the project on GitHub
 
